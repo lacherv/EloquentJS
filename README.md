@@ -1,2 +1,0 @@
-# EloquentJS
-Eloquent JavaScript
